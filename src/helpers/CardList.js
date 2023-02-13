@@ -33,7 +33,7 @@ class Card {
       'The',
       'Grid',
       'https://i.imgur.com/dncGObU.jpg',
-      'https://i.imgur.com/NQ8hwGh.jpg)'
+      'https://i.imgur.com/NQ8hwGh.jpg'
     ),
     new Card(
       'From Up',

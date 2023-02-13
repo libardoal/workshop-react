@@ -2,7 +2,7 @@ import React from 'react';
 
 import '../assets/styles/containers/OurCreations.scss';
 
-import cardList from '../helpers/cardList';
+import cardList from '../helpers/CardList';
 
 import OurCreationsItem from '../components/OurCreationsItem';
 

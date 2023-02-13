@@ -1,5 +1,5 @@
 import React from 'react';
-import { useNavegation } from '../hooks/useNavegation';
+import { useNavegation } from '../hooks/useNavigation';
 
 import logo from '../assets/images/logo.svg';
 import hamburgerIcon from '../assets/images/icon-hamburger.svg';
